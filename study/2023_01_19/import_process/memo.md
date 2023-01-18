@@ -13,3 +13,7 @@
 ## **PDA on shelves**
 
 ![Alt PDA on shelves](pic/03.jpg)
+
+### _ai_
+
+![Ait what is PDA](pic/05.jpg)
