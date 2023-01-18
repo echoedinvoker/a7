@@ -16,4 +16,8 @@
 
 ### _ai_
 
-![Ait what is PDA](pic/05.jpg)
+![Alt what is PDA](pic/05.jpg)
+
+![Alt what is maito](pic/06.jpg)
+
+![Alt what is BR/BY](pic/07.jpg)
