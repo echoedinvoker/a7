@@ -48,6 +48,10 @@
 
 ![Alt 7F replenishment import](pic/27.jpg)
 
+### _Other_
+
+![Alt blue putaway yellow receiving inspection](pic/04.jpg)
+
 ## **Conveyor**
 
 ![Alt 1-1 receiving power converyors (receiving)](pic/09.jpg)
@@ -71,7 +75,3 @@
 ![Alt ai - stations translating](pic/29.jpg)
 
 ![Alt ai - putaway & receiving inspect](pic/30.jpg)
-
-## **Other**
-
-![Alt blue putaway yellow receiving inspection](pic/04.jpg)
